@@ -1,20 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Monidipa Dey
+# <span style="color:#FFFFFF">👋 Hi, I'm Monidipa Dey</span>
 
-### `Aspiring Software Engineer` · `CSE Student` · `Full-Stack & AI Enthusiast`
-
-I build things to understand how they work — from **DSA and web applications** to **AI-powered systems and IoT prototypes**.
+### <span style="color:#6EA8FE">Aspiring Software Engineer</span> · CSE Student · Full-Stack & AI Enthusiast
 
 <p>
   <a href="https://github.com/Monidipa-Dey25">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/monidipa-dey-b8217736b">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
   <a href="mailto:monidipadey.amta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
 </p>
 
@@ -22,58 +20,55 @@ I build things to understand how they work — from **DSA and web applications**
 
 ---
 
-## 🌌 About Me
+# 🌊 About Me
 
-I'm a **2nd-year Computer Science & Engineering student at JIS College of Engineering, Kalyani**, exploring the intersection of **software engineering, full-stack development, AI, and embedded systems**.
+I'm a **2nd-year Computer Science & Engineering student at JIS College of Engineering, Kalyani**, exploring the world of **software engineering, full-stack development, AI, and IoT**.
 
-I enjoy learning by building — turning ideas into working prototypes, solving programming problems, and exploring technologies that can create practical impact.
+I learn best by building — whether that's solving DSA problems, creating web applications, experimenting with AI, or turning an idea into a working hardware prototype.
 
-```text
-Currently exploring
-├── Data Structures & Algorithms
-├── Full-Stack Web Development
-├── AI / ML & AI Integrations
-├── IoT & Embedded Systems
-└── Software Engineering Fundamentals
-```
+### 💙 What drives me
 
-🎯 **Long-term goal:** Become a strong software engineer capable of building scalable, meaningful real-world applications.
+> **Learn → Build → Break → Understand → Improve**
+
+My long-term goal is to become a **strong software engineer capable of building scalable and meaningful real-world applications.**
 
 ---
 
-## ⚡ What I'm Working On
+# 🧭 Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧠 Problem Solving
+### 💻 DSA & Problem Solving
 
-Strengthening my foundation in **C++ and DSA** through consistent practice and problem solving.
+Strengthening my foundation in **C++ and Data Structures & Algorithms** through consistent practice.
 
 </td>
-<td width="50%">
+
+<td width="50%" align="center">
 
 ### 🌐 Full-Stack Development
 
-Learning how to design, build and deploy complete web applications.
+Learning to build complete web applications from **frontend to backend and deployment**.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🤖 AI
+### 🤖 Artificial Intelligence
 
-Exploring **AI/ML concepts and AI-powered application development**.
+Exploring **AI/ML concepts and AI-powered applications** through hands-on projects.
 
 </td>
-<td width="50%">
 
-### 🔌 IoT
+<td width="50%" align="center">
 
-Building hands-on embedded systems using **Arduino and sensors**.
+### 🔌 IoT & Embedded Systems
+
+Building practical hardware prototypes using **Arduino, sensors and automation**.
 
 </td>
 </tr>
@@ -86,29 +81,29 @@ Building hands-on embedded systems using **Arduino and sensors**.
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1F3A?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/C-0B1F3A?style=for-the-badge&logo=c&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
 </p>
 
 ### 🌐 Web & Backend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/HTML5-123B6D?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-123B6D?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Flask-123B6D?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Firebase-123B6D?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
 </p>
 
 ### 🔧 Tools & Hardware
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D" />
+<img src="https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS%20Code-0B1F3A?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Figma-0B1F3A?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Arduino-0B1F3A?style=for-the-badge&logo=arduino&logoColor=FFFFFF" />
 </p>
 
 ---
@@ -117,27 +112,29 @@ Building hands-on embedded systems using **Arduino and sensors**.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>🧠 Lexi-Fair AI</h3>
+## 🧠 Lexi-Fair AI
 
 An AI bias detection and mitigation platform designed to identify and reduce demographic bias in machine learning systems.
 
 **Built for the Google Solution Challenge.**
 
-**Highlights**
+### Highlights
 
-* Detects demographic and intersectional bias
-* Privacy-focused dataset auditing approach
-* Browser-side CSV processing
-* AI-assisted analysis
+* 🔍 Demographic & intersectional bias analysis
+* 🔐 Privacy-focused dataset auditing
+* 📄 Browser-side CSV processing
+* 🤖 AI-assisted analysis
 
 <p>
 <a href="https://github.com/subhrajit-saha-08/lexi-fair-ai">
-<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Repository-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
+
 <a href="https://lexi-fair.web.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Live%20Demo-123B6D?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
 </a>
 </p>
 
@@ -145,20 +142,21 @@ An AI bias detection and mitigation platform designed to identify and reduce dem
 
 <td width="50%" valign="top">
 
-<h3>🔌 Smart Clap IoT System</h3>
+## 🔌 Smart Clap IoT
 
-An Arduino-based smart automation prototype that uses a sound sensor to detect a clap and trigger connected devices.
+An Arduino-based smart automation prototype using a sound sensor to detect a clap and trigger connected devices.
 
-**Concept**
+### How it works
 
-* Clap detection from a specific distance
-* Automatic light activation
-* Fan control
-* Arduino-based signal processing
+* 👏 Detects a clap from a specific distance
+* 💡 Activates a light
+* 🌀 Controls a fan
+* ⚡ Uses Arduino-based signal processing
 
 **Stack:** Arduino · C++ · Sound Sensor · Relay Module
 
 </td>
+
 </tr>
 </table>
 
@@ -166,8 +164,10 @@ An Arduino-based smart automation prototype that uses a sound sensor to detect a
 
 # 🏆 Achievements & Participation
 
-* 🟣 **Google Solution Challenge** — Participated as a developer and built the Lexi-Fair AI project
-* 🟢 **LeetCode** — 50 Days Consistent Badge Holder
+|    | Achievement                                                                                    |
+| -- | ---------------------------------------------------------------------------------------------- |
+| 🟦 | **Google Solution Challenge** — Participated as a developer and built the Lexi-Fair AI project |
+| 🟦 | **LeetCode** — 50 Days Consistent Badge Holder                                                 |
 
 ---
 
@@ -175,9 +175,17 @@ An Arduino-based smart automation prototype that uses a sound sensor to detect a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Monidipa-Dey25&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Monidipa-Dey25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=6EA8FE&icon_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
+alt="GitHub Stats"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monidipa-Dey25&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monidipa-Dey25&layout=compact&langs_count=8&hide_border=true&title_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -185,7 +193,10 @@ An Arduino-based smart automation prototype that uses a sound sensor to detect a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Monidipa-Dey25&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7A00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img
+src="https://streak-stats.demolab.com/?user=Monidipa-Dey25&hide_border=true&background=0B1F3A&ring=FFFFFF&fire=6EA8FE&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B8C7D9"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -193,21 +204,24 @@ An Arduino-based smart automation prototype that uses a sound sensor to detect a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monidipa-Dey25&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Monidipa-Dey25&bg_color=0B1F3A&color=FFFFFF&line=6EA8FE&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
+alt="GitHub Activity Graph"
+/>
 
 </div>
 
 ---
 
-# 📈 Profile Snapshot
+# 📈 Profile Overview
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Monidipa-Dey25?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/followers/Monidipa-Dey25?label=Followers&style=for-the-badge&color=0B1F3A&labelColor=FFFFFF&logo=github&logoColor=0B1F3A" />
 
-<img src="https://img.shields.io/github/stars/Monidipa-Dey25?label=Stars&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/stars/Monidipa-Dey25?label=Stars&style=for-the-badge&color=0B1F3A&labelColor=FFFFFF&logo=github&logoColor=0B1F3A" />
 
-<img src="https://komarev.com/ghpvc/?username=Monidipa-Dey25&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Monidipa-Dey25&label=Profile%20Views&color=0B1F3A&style=for-the-badge" />
 
 </div>
 
@@ -215,25 +229,75 @@ An Arduino-based smart automation prototype that uses a sound sensor to detect a
 
 # 🎯 2026 Goals
 
-```text
-[✓] Keep strengthening C++ & DSA
-[→] Build and deploy a complete full-stack application
-[→] Explore AI/ML through practical projects
-[→] Contribute to open-source
-[→] Grow as a software engineer
-[→] Secure a software engineering internship
-```
+<table>
+<tr>
+<td>
+
+✅ Strengthen **C++ & DSA**
+
+</td>
+<td>
+
+🌐 Build & deploy a **full-stack application**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🤖 Deepen **AI/ML knowledge**
+
+</td>
+<td>
+
+🌱 Contribute to **open source**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💻 Build more **real-world projects**
+
+</td>
+<td>
+
+🚀 Secure a **software engineering internship**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Beyond Code
-
-I believe the best way to learn technology is to **build, break, understand, and build again**.
-
-I'm currently focused on becoming a better problem solver, a stronger developer, and someone who can turn an idea into a working product.
+# 🌱 My Developer Philosophy
 
 <div align="center">
 
-### `Always learning. Always building. 🚀`
+### **"Build with curiosity. Learn with consistency. Improve with every project."**
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-0B1F3A?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/BUILD-123B6D?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/IMPROVE-1D4E89?style=for-the-badge&logoColor=FFFFFF" />
+
+<br><br>
+
+**Always learning. Always building. 💙**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://github.com/Monidipa-Dey25">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/monidipa-dey-b8217736b">LinkedIn</a>
+  •   <a href="mailto:monidipadey.amta@gmail.com">Email</a>
 
 </div>
