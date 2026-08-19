@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#FFFFFF">👋 Hi, I'm Monidipa Dey</span>
+# 👋 Hi, I'm Monidipa Dey
 
 ### <span style="color:#6EA8FE">Aspiring Software Engineer</span> · CSE Student · Full-Stack & AI Enthusiast
 
@@ -175,17 +175,21 @@ An Arduino-based smart automation prototype using a sound sensor to detect a cla
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Monidipa-Dey25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=6EA8FE&icon_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
-alt="GitHub Stats"
-/>
+<a href="https://github.com/Monidipa-Dey25">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Monidipa-Dey25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6EA8FE&icon_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
+    alt="GitHub Stats"
+  />
+</a>
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monidipa-Dey25&layout=compact&langs_count=8&hide_border=true&title_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
-alt="Top Languages"
-/>
+<a href="https://github.com/Monidipa-Dey25">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Monidipa-Dey25&layout=compact&langs_count=8&hide_border=true&title_color=6EA8FE&text_color=FFFFFF&bg_color=0B1F3A"
+    alt="Top Languages"
+  />
+</a>
 
 </div>
 
